@@ -8,13 +8,3 @@
 45.155.68.129:8133|htfdpwpn|ajvttyo7zhs5
 154.95.36.199:6893|htfdpwpn|ajvttyo7zhs5
 45.94.47.66:8110|htfdpwpn|ajvttyo7zhs5
-38.154.227.167:5868|mlqnwllw|5qn75t8mg5yh
-185.199.229.156:7492|mlqnwllw|5qn75t8mg5yh
-185.199.228.220:7300|mlqnwllw|5qn75t8mg5yh
-185.199.231.45:8382|mlqnwllw|5qn75t8mg5yh
-188.74.210.207:6286|mlqnwllw|5qn75t8mg5yh
-188.74.183.10:8279|mlqnwllw|5qn75t8mg5yh
-188.74.210.21:6100|mlqnwllw|5qn75t8mg5yh
-45.155.68.129:8133|mlqnwllw|5qn75t8mg5yh
-154.95.36.199:6893|mlqnwllw|5qn75t8mg5yh
-45.94.47.66:8110|mlqnwllw|5qn75t8mg5yh
